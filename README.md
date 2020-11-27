@@ -1,5 +1,5 @@
 # Joke-Teller
-### Cute robot that tells you jokes on a click of a button!
+### Cute robot that tells you jokes with a click of a button!
 The jokes were recieved from [JokeAPI](https://sv443.net/jokeapi/v2/) and using the [Text-to-speech](http://www.voicerss.org/api/) API you can hear them out.<br/>
 Enjoy!
 
